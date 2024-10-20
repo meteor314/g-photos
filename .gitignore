@@ -1,0 +1,7 @@
+token.json
+*venv/
+config.ini
+credentials.json
+photos/
+__pycache__/
+*.db
